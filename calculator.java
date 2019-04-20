@@ -6,4 +6,6 @@ public class Decimal {
         double n1, n2;
         String operation;
         Scanner scannerObject = new Scanner(System.in);
-
+        
+        System.out.println("Enter first number");
+        n1 = scannerObject. nextDouble();
