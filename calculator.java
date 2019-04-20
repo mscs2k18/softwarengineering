@@ -31,3 +31,15 @@ public class Decimal {
             System.out.println("Your answer is " + (n1 / n2));
             break;
 
+		case "*":
+            System.out.println("Your asnwer is " + (n1 * n2));
+            break;
+
+
+        default:
+            System.out.println("invalid enrty");
+
+        }
+    }
+}
+
