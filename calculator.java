@@ -15,4 +15,8 @@ public class Decimal {
 Scanner op = new Scanner(System.in);
         System.out.println("Enter your operation");
         operation = op.next();
+switch (operation)  {
+        case "+":
+            System.out.println("Your answer is " + (n1 + n2));
+            break;
 
