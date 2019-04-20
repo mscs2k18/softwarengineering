@@ -1,2 +1,6 @@
-"double n1, n2; " 
-"double n1, n2; " 
+import java.util.Scanner;
+
+public class Decimal {
+   
+    public static void main(String[] args) {
+        double n1, n2;
