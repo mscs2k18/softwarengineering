@@ -1,1 +1,2 @@
-"public class Decimal {" 
+import java.util.Scanner;
+public class Decimal {
