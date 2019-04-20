@@ -27,4 +27,7 @@ public class Decimal {
             System.out.println("Your answer is " + (n1 - n2));
             break;
 
+		case "/":
+            System.out.println("Your answer is " + (n1 / n2));
+            break;
 
