@@ -29,6 +29,12 @@ int main() {
             printf("%.1lf / %.1lf = %.1lf",firstNumber, secondNumber, firstNumber / secondNumber);
             break;
 
+            default:
+            printf("Error! operator is not correct");
+    }
+    
+    return 0;
+}
 
 
 
