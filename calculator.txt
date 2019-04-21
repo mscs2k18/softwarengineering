@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include<conio.h>
+Void main ()
+{
+Int a,b,sum,sub,muti,dvi;
+Float avg;
+Clrscr();
+Printf (“ enter the num1: ”);
+Scanf (“%d”, &a);
+Printf (“ enter the num2: ”);
+Scanf (“%d”, &b);
+sum=a+b;
+Printf (“ the sum of %d and %d is %d”,a,b,sum);
+sub=a-b;
+Printf(“\nthe subtrication of %d and %d is %d”,a,b,sub);
+multi=a*b;
+Printf(“\nthe multipaiction of %d and %d is %d”,a,b,multi);
+div=a/b;
+Printf(“\nthe divison of %d and %d is %d”,a,b,dvi);
+avg=sum/2;
+Printf(“ the sum of %d and %d is the avg %f ”,a,b,avg);s
+getch();
+}
